@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.922,=D:\Пзт-38\ОАиП\КУРСОВОЙ ПРОЕКТ\ПРОЕКТ\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.095,=D:\Пзт-38\ОАиП\КУРСОВОЙ ПРОЕКТ\ПРОЕКТ\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,D:\Пзт-38\ОАиП\КУРСОВОЙ ПРОЕКТ\ПРОЕКТ\Unit1.dfm=C:\Users\37529\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.768,=D:\Пзт-38\ОАиП\КУРСОВОЙ ПРОЕКТ\ПРОЕКТ\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.939,=C:\Users\37529\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.368,=C:\Users\37529\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.901,=D:\Пзт-38\ОАиП\КУРСОВОЙ ПРОЕКТ\ПРОЕКТ\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,D:\Пзт-38\ОАиП\КУРСОВОЙ ПРОЕКТ\ПРОЕКТ\Unit1.pas=C:\Users\37529\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.857,D:\Пзт-38\ОАиП\КУРСОВОЙ ПРОЕКТ\ПРОЕКТ\Project1.dproj=C:\Users\37529\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.555,=D:\Пзт-38\ОАиП\КУРСОВОЙ ПРОЕКТ\ПРОЕКТ\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.908,=D:\Пзт-38\ОАиП\КУРСОВОЙ ПРОЕКТ\ПРОЕКТ\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.865,=D:\Пзт-38\ОАиП\КУРСОВОЙ ПРОЕКТ\ПРОЕКТ\Unit4.pas</Transaction>
+  </Transactions>
+</BorlandProject>

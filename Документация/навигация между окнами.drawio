@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2023-06-16T06:32:34.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="PMpO3UTupiQn1FxS5orI" version="21.3.7" type="device">
+  <diagram name="Страница 1" id="zxRjpz8LZE1AKtR81JHn">
+    <mxGraphModel dx="1036" dy="567" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sjGcCrUnXpAD8zxNFRM-1" target="9sjGcCrUnXpAD8zxNFRM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sjGcCrUnXpAD8zxNFRM-1" target="9sjGcCrUnXpAD8zxNFRM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sjGcCrUnXpAD8zxNFRM-1" target="9sjGcCrUnXpAD8zxNFRM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sjGcCrUnXpAD8zxNFRM-1" target="9sjGcCrUnXpAD8zxNFRM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sjGcCrUnXpAD8zxNFRM-1" target="9sjGcCrUnXpAD8zxNFRM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-1" value="Главное меню" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-2" value="Вкладка справка" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9sjGcCrUnXpAD8zxNFRM-3" target="9sjGcCrUnXpAD8zxNFRM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sjGcCrUnXpAD8zxNFRM-3" target="9sjGcCrUnXpAD8zxNFRM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sjGcCrUnXpAD8zxNFRM-3" target="9sjGcCrUnXpAD8zxNFRM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-3" value="Вкладка приложение" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sjGcCrUnXpAD8zxNFRM-4" target="9sjGcCrUnXpAD8zxNFRM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sjGcCrUnXpAD8zxNFRM-4" target="9sjGcCrUnXpAD8zxNFRM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sjGcCrUnXpAD8zxNFRM-4" target="9sjGcCrUnXpAD8zxNFRM-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-4" value="Стили танцев" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-5" value="Стили танцев" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="330" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-6" value="Тест" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-7" value="Закрыть" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-8" value="Vogue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-10" value="Информация о танцах" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-11" value="Тест &quot;Какой стиль танца вам подходит больше всего?&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="20" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-12" value="Hip-Hop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9sjGcCrUnXpAD8zxNFRM-13" value="Jazz Funk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

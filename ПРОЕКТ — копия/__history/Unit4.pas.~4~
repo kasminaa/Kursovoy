@@ -1,0 +1,67 @@
+unit Unit4;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Imaging.jpeg, Vcl.ExtCtrls,
+  Vcl.StdCtrls;
+
+type
+  TForm4 = class(TForm)
+    Image1: TImage;
+    Label1: TLabel;
+    Button1: TButton;
+    Button2: TButton;
+    RadioGroup1: TRadioGroup;
+    procedure Button1Click(Sender: TObject);
+    procedure Button2Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form4: TForm4;
+  a,b,c,d:integer;
+  f: text;
+  s: string;
+  Nvern, ball: integer;
+
+implementation
+
+{$R *.dfm}
+
+uses Unit7;
+
+procedure TForm4.Button1Click(Sender: TObject);
+begin
+Form4.Hide;
+Form7.Show;
+end;
+
+procedure TForm4.Button2Click(Sender: TObject);
+begin
+AssignFile( f ,'test.txt');
+AssignFile(f1,'результаты теста.txt');
+rewrite(f1);
+button2.Visible:=false;
+RadioGroup1.Visible:=true;
+a:=0;
+b:=0;
+c:=0;
+d:=0;
+reset(f);
+readln(f,s);
+repeat
+if (s[1]='-') then begin //≈сли первый символ строки С-С значит это вопрос
+delete(s,1,1);
+RadioGroup1.Caption:=s;
+end
+else RadioGroup1.Items.Add(s);
+readln(f,s);
+until (s[1]='-') or (Eof(f));
+end;
+
+end.
